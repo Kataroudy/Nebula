@@ -2,7 +2,7 @@
 
 Generate a distribution.json for Helios. Documentation on this format can be found [here][distro.md].
 
-## Requirements
+## Requirementss
 
 * Node.js 18
 * Java 8+ (https://adoptopenjdk.net/)
